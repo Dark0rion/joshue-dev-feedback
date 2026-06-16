@@ -2,7 +2,7 @@
 
 Welcome! This is the official public tracker for the applications and tools built at [joshue.dev](https://joshue.dev).
 
-While the source code for my applications remains private, I strongly believe in building in public and listening to the community. This repository serves as a centralized place where you can report bugs, request new features, or ask questions about any of my apps.
+This repository serves as a centralized place where you can report bugs, request new features, or ask questions about any of my apps.
 
 ## 📱 Supported Apps
 - **Icon Forge**
